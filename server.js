@@ -9,12 +9,14 @@ const projects = [
         id: 1,
         Title: "Igniter Timer",
         Descriptions: "A simple timer app built with React and TypeScript.",
-        BannerImage: "https://res-console.cloudinary.com/ddrbxo7pj/media_explorer_thumbnails/74d8b334faf82012f5a516c6226d31d9/detailed",
+        BannerImage: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1736968249/Ignite_Timer/IgneteTimePhotos/uleefqplibpwwyfqc55p.png",
         Techs: ["React", "TypeScript", "Styled Components"],
         MoreDetails: [
             {
                 Title: "Home",
-                Descriptions: "Uma aplicação simples e intuitiva de timer que permite aos usuários configurar e gerenciar contagens regressivas ou cronômetros com facilidade. Ideal para manter o foco em atividades como estudos, exercícios, cozinha, ou qualquer tarefa que exija controle do tempo. <br/>  <br/>  <br/>  Com uma interface moderna e funcional, a aplicação oferece funcionalidades como personalização de tempo, notificações sonoras ao término e histórico de uso. Perfeita para quem busca produtividade e organização no dia a dia!",
+                Descriptions: {
+                    EN: "Uma aplicação simples e intuitiva de timer que permite aos usuários configurar e gerenciar contagens regressivas ou cronômetros com facilidade. Ideal para manter o foco em atividades como estudos, exercícios, cozinha, ou qualquer tarefa que exija controle do tempo. <br/>  <br/>  <br/>  Com uma interface moderna e funcional, a aplicação oferece funcionalidades como personalização de tempo, notificações sonoras ao término e histórico de uso. Perfeita para quem busca produtividade e organização no dia a dia!",
+                },
                 Image: "https://res-console.cloudinary.com/ddrbxo7pj/media_explorer_thumbnails/74d8b334faf82012f5a516c6226d31d9/detailed",
                 
             },
