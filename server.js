@@ -18,7 +18,20 @@ const projects = [
                     PT: "Uma aplicação simples e intuitiva de timer que permite aos usuários configurar e gerenciar contagens regressivas ou cronômetros com facilidade. Ideal para manter o foco em atividades como estudos, exercícios, cozinha, ou qualquer tarefa que exija controle do tempo. <br/>  <br/>  <br/>  Com uma interface moderna e funcional, a aplicação oferece funcionalidades como personalização de tempo, notificações sonoras ao término e histórico de uso. Perfeita para quem busca produtividade e organização no dia a dia!",
                     EN: "A simple and intuitive timer application that allows users to set and manage countdowns or stopwatches with ease. Ideal for staying focused on activities such as studying, exercising, cooking, or any task that requires time tracking. <br/ > <br/> <br/> With a modern and functional interface, the application offers features such as time customization, sound notifications at the end and usage history "
                 },
-                Image: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1736968249/Ignite_Timer/IgneteTimePhotos/uleefqplibpwwyfqc55p.png",
+                Source: {
+                    "IMG": "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1736968249/Ignite_Timer/IgneteTimePhotos/uleefqplibpwwyfqc55p.png"
+                },
+                
+            },
+            {
+                Title: "Home",
+                Descriptions: {
+                    PT: "Uma aplicação simples e intuitiva de timer que permite aos usuários configurar e gerenciar contagens regressivas ou cronômetros com facilidade. Ideal para manter o foco em atividades como estudos, exercícios, cozinha, ou qualquer tarefa que exija controle do tempo. <br/>  <br/>  <br/>  Com uma interface moderna e funcional, a aplicação oferece funcionalidades como personalização de tempo, notificações sonoras ao término e histórico de uso. Perfeita para quem busca produtividade e organização no dia a dia!",
+                    EN: "A simple and intuitive timer application that allows users to set and manage countdowns or stopwatches with ease. Ideal for staying focused on activities such as studying, exercising, cooking, or any task that requires time tracking. <br/ > <br/> <br/> With a modern and functional interface, the application offers features such as time customization, sound notifications at the end and usage history "
+                },
+                Source: {
+                    "VIDEO": "https://res.cloudinary.com/ddrbxo7pj/video/upload/v1737114471/Ignite_Timer/Videos/cw5m6lpd4efqthbe3jms.mkv"
+                },
                 
             },
             {
