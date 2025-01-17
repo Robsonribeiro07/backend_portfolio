@@ -149,6 +149,49 @@ const projects = [
             }
         ]
     },
+    {
+        id: 3,
+        Title: "Dashboard Delivery",
+        Descriptions: "Projeto desenvolvido usando REACT JS | ShadcnUI | tailwind css | styled-components | TS.",
+        BannerImage: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1737127517/b1a4n8svwfq57lljjro7.png",
+        VIDEO: "https://res.cloudinary.com/ddrbxo7pj/video/upload/v1737127529/oc23pt1uhyfnjrm6q1zm.mp4",
+        Techs: ["React JS", "TypeScript", "Styled Components", "Tailwind CSS", "Shadcn UI"],
+        MoreDetails: [
+            {
+                Title: "Home",
+                Descriptions: {
+                    PT: `Essa aplicação é um painel de controle (dashboard) voltado para a gestão de pedidos e receitas de um negócio, possivelmente um restaurante ou serviço de delivery. Ele apresenta indicadores de desempenho, como receita total mensal, quantidade de pedidos por mês e por dia, além do número de cancelamentos.
+
+                     O painel também exibe gráficos para análise de tendências, incluindo a receita diária ao longo de um período específico. Além disso, há uma seção destacando os produtos mais populares, visualizados por meio de um gráfico de pizza. A interface segue um design escuro e moderno, com informações organizadas de forma intuitiva para facilitar a tomada de decisões.`,
+                    EN: ` This application is a dashboard designed for managing orders and revenue for a business, possibly a restaurant or delivery service. It displays performance indicators such as total monthly revenue, the number of orders per month and per day, as well as the number of cancellations.
+
+                     The dashboard also includes graphs for trend analysis, showing daily revenue over a specific period. Additionally, there is a section highlighting the most popular products, visualized through a pie chart. The interface follows a dark and modern design, with information organized intuitively to facilitate decision-making.`
+                },
+                Source: {
+                    IMG: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1737127517/b1a4n8svwfq57lljjro7.png"
+                },
+                
+            },
+            {
+                Title: "Pedidos",
+                Descriptions: {
+                    PT: `Esta aplicação é um sistema de gerenciamento de pedidos, apresentando uma lista detalhada de solicitações realizadas pelos clientes. Os pedidos são exibidos com identificadores únicos, data de realização, status (como "Pendente"), nome do cliente e o valor total da compra.
+
+                   A interface permite filtrar pedidos por ID, nome do cliente e status. Além disso, há botões para "Aprovar" ou "Cancelar" cada pedido, facilitando a administração e o controle das solicitações. O design segue um tema escuro e moderno, garantindo uma organização intuitiva das informações.
+`,
+                    EN: `This application is an order management system that displays a detailed list of customer requests. Orders are shown with unique identifiers, order date, status (such as "Pending"), customer name, and total purchase amount.
+
+                    The interface allows filtering orders by ID, customer name, and status. Additionally, there are buttons to "Approve" or "Cancel" each order, making order administration and control easier. The design follows a dark and modern theme, ensuring an intuitive organization of information
+
+`
+                },
+                Source: {
+                    IMG: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1737128138/e8aycfrvinoeoh61xooo.png"
+                },
+                
+            },
+        ]
+    }
     
 ];
 
