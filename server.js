@@ -191,7 +191,84 @@ const projects = [
                 
             },
         ]
-    }
+    },
+    {
+        id: 4,
+        Title: "Atlas",
+        Descriptions: "O Atlas é um app de hábitos e tarefas, com React Query para dados, Cloudinary para imagens e MongoDB Atlas para armazenamento. Usa Zustand para estado global e Clerk para autenticação. A interface é feita com Tailwind CSS e Styled Components.",
+        BannerImage: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1738506021/portfolio/qpenmesv38rvsxp8qrdq.jpg",
+        VIDEO: "https://res.cloudinary.com/ddrbxo7pj/video/upload/v1738506065/portfolio/ywrcisbpfeqiv1qhvoay.mp4",
+        Techs: ["React JS", "TypeScript", "Styled Components", "Tailwind CSS", "Shadcn UI", "React Query", "Cloudinary", "Zunstand"],
+        MoreDetails: [
+            {
+                Title: "Home",
+                Descriptions: {
+                    PT: `A página inicial do Atlas apresenta um design moderno e minimalista, com um fundo escuro que destaca elementos gráficos interativos, criando uma atmosfera tecnológica e futurista. No centro, uma mensagem motivacional convida o usuário a transformar sua vida através da construção de hábitos positivos. 
+                    <br/> <br/>
+                    A interface é intuitiva, com botões chamativos que incentivam a ação, enquanto um calendário interativo permite acompanhar hábitos ao longo do tempo. O layout equilibra simplicidade e sofisticação, proporcionando uma experiência visual envolvente e funcional.`,
+                    EN: ` The Atlas homepage features a modern and minimalist design, with a dark background that highlights interactive graphic elements, creating a technological and futuristic atmosphere. At the center, a motivational message invites users to transform their lives through 
+                    <br/>
+                    <br/>
+                    
+                    habit-building. The interface is intuitive, with striking buttons that encourage action, while an interactive calendar allows users to track their habits over time. The layout balances simplicity and sophistication, delivering an engaging and functional visual experience.`
+                },
+                Source: {
+                    IMG: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1738506017/portfolio/q8zobblnvztd1j2cqbuh.jpg"
+                },
+                
+            },
+            {
+                Title: "Adiciona nova tarefa",
+                Descriptions: {
+                    PT: `Aqui o usuario pode adiciona uma nova tarefa definir um nome e escolher a prioridade antes de confirmar ou cancelar.
+`,
+                    EN: `This application is an order management system that displays a detailed list of customer requests. Orders are shown with unique identifiers, order date, status (such as "Pending"), customer name, and total purchase amount.
+
+                    The interface allows filtering orders by ID, customer name, and status. Additionally, there are buttons to "Approve" or "Cancel" each order, making order administration and control easier. The design follows a dark and modern theme, ensuring an intuitive organization of information
+
+`
+                },
+                Source: {
+                    IMG: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1738506845/portfolio/bpkgdxdoeujcry1apucl.jpg"
+                },
+                
+            },
+            {
+                Title: "Adiciona novo Habito",
+                Descriptions: {
+                    PT: `Aqui o usuario pode adiciona um novo Habito .
+`,
+                    EN: `This application is an order management system that displays a detailed list of customer requests. Orders are shown with unique identifiers, order date, status (such as "Pending"), customer name, and total purchase amount.
+
+                    The interface allows filtering orders by ID, customer name, and status. Additionally, there are buttons to "Approve" or "Cancel" each order, making order administration and control easier. The design follows a dark and modern theme, ensuring an intuitive organization of information
+
+`
+                },
+                Source: {
+                    IMG: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1738506869/portfolio/puzjud9qp10ahb7ywsqt.jpg"
+                },
+                
+            },
+            {
+                Title: "Editar Perfil",
+                Descriptions: {
+                    PT: `Aqui o usuario pode trocar seu nome, e alterar sua foto de perfil .
+`,
+                    EN: `This application is an order management system that displays a detailed list of customer requests. Orders are shown with unique identifiers, order date, status (such as "Pending"), customer name, and total purchase amount.
+
+                    The interface allows filtering orders by ID, customer name, and status. Additionally, there are buttons to "Approve" or "Cancel" each order, making order administration and control easier. The design follows a dark and modern theme, ensuring an intuitive organization of information
+
+`
+                },
+                Source: {
+                    IMG: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1738506902/portfolio/a3krbzsox5fch4nl06jk.jpg"
+                },
+                
+            },
+        ]
+
+    },
+    
     
 ];
 
