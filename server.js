@@ -194,8 +194,8 @@ const projects = [
     },
     {
         id: 4,
-        Title: "Atlas",
-        LinkSite: "https://atlas-75k9.vercel.app/"
+        Title: "Atlas", 
+        LinkSite: "https://atlas-75k9.vercel.app/",
         Descriptions: "O Atlas é um app de hábitos e tarefas, com React Query para dados, Cloudinary para imagens e MongoDB Atlas para armazenamento. Usa Zustand para estado global e Clerk para autenticação. A interface é feita com Tailwind CSS e Styled Components.",
         BannerImage: "https://res.cloudinary.com/ddrbxo7pj/image/upload/v1738506021/portfolio/qpenmesv38rvsxp8qrdq.jpg",
         VIDEO: "https://res.cloudinary.com/ddrbxo7pj/video/upload/v1738506065/portfolio/ywrcisbpfeqiv1qhvoay.mp4",
